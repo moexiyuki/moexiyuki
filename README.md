@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moexiyuki&layout=compact&theme=transparent&card_width=350&locale=cn" alt="Top languages of MoeXiYuki" />
 </a>
-</picture>
